@@ -11,7 +11,7 @@ body {
 header{
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+
 }
 .img-intro{
     width: 40%;
